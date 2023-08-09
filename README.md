@@ -1,3 +1,22 @@
+i upload this project in vercel
+online preview
+https://rick-and-morty-app-ub6r.vercel.app/
+
+system requirement
+
+Windows Version: Windows XP, Windows 7(32/64 bit) or higher.
+Minimum 4 GB RAM required.
+A minimum of 10 GB disk space on your hard drive.
+An internet browser such as Chrome, Microsoft Edge, Firefox etc.
+One editor to debug and test code written in ReactJS.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
